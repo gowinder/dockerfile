@@ -1,0 +1,1 @@
+docker build -t gowinder/python:3.10-alpine3.16 . && docker push gowinder/python:3.10-alpine3.16
